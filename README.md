@@ -4,7 +4,13 @@ Hi 👋 My name is Zmijan Velija
 Web developer
 -------------
 
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development.
+I've been learning to code for 5 years, after switching careers. I started with HTML,
+but have really found a passion for backend development. Like a back-end developer I create,
+code, and improve the server, server-side applications, and databases that,
+when combined with front-end codes, help create a functional, seamless experience for the end-user.
+I study industry trends, to create or improve back-end processes and codes, and work with others to design a better program.
+My hobies that help me work more productively and have a happier life are Reading books, Learning new skills, engaging in sports like Cycling, Swimming, Gym
+Music and watching films.
 
 * 🌍  I'm based in Tirana, Albania
 * 🖥️  See my portfolio at [My portfolio](http://my.sparrow.al)
